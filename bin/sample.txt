@@ -1,4 +1,0 @@
-Operating systems manage hardware.
-Linux is an operating system.
-Kali Linux is used for security.
-Make builds programs from source files.
