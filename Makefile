@@ -3,7 +3,7 @@
 #  Delegates all real work to the Makefile in src/
 # ==================================================
 SUBDIRS = src
-APP     = multifile_app
+APP     = client_static
 BINDIR  = bin
 
 .PHONY: all run clean help $(SUBDIRS)
